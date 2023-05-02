@@ -1,0 +1,2 @@
+students#name#string##id#int##Dept#string
+departamento#name#string##id#int##capacidad#int
